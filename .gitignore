@@ -1,0 +1,6 @@
+.env
+*.json
+dist/
+build/
+*.egg-info/
+venv/
